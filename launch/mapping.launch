@@ -41,11 +41,11 @@
         <param name="ymin" value="-10.0" />
         <param name="xmax" value="10.0" />
         <param name="ymax" value="10.0" />
-        <param name="particles" value="300" />
+        <param name="particles" value="100" />
         <param name="maxRange" value="3.0" />
         <param name="maxUrange" value="2.9" />
         <param name="delta" value="0.05" />
         <param name="base_frame" value="base_footprint" />
-	<param name="occ_thresh" value="0.60"/>
+	<param name="occ_thresh" value="0.10"/>
     </node>
 </launch>
